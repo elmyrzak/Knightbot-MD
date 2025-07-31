@@ -1,4 +1,4 @@
-/**
+no/**
  * Knight Bot - A WhatsApp Bot
  * Copyright (c) 2024 Professor
  * 
@@ -80,7 +80,7 @@ const store = {
     }
 }
 
-let phoneNumber = "911234567890"
+let phoneNumber = "996997007236"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
 global.botname = "KNIGHT BOT"
